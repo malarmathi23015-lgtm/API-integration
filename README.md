@@ -1,4 +1,4 @@
-# API Integration Platform V2
+# API Integration Platform 
 
 A scalable and modular AI-powered API Integration platform developed using Python.
 
