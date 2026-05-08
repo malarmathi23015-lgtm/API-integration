@@ -309,7 +309,7 @@ This project demonstrates practical knowledge of:
 | Architecture | Modular |
 | Status | Active Development |
 | License | MIT |
-| Maintainer | Malarmathi |
+| Maintainer | Mathivadhana V |
 
 ---
 
